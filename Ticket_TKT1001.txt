@@ -1,0 +1,22 @@
+=====================================================
+             DIGITAL TICKET & ENTRY PASS             
+=====================================================
+Ticket ID          : TKT1001
+Registration ID    : REG-201
+Attendance Status  : Registered
+-----------------------------------------------------
+PARTICIPANT DETAILS:
+Name               : poorna sai
+Email              : saikallivettu@gmail.com
+Phone              : 6302606719
+-----------------------------------------------------
+EVENT DETAILS:
+Event ID           : 1
+Event Name         : saradha
+Date               : 06/09/2005
+Time Slot          : 12:00 - 16:00
+Assigned Venues    : 231A (ID: 1)
+Event Vendors      : None
+-----------------------------------------------------
+QR TOKEN           : QR-TKT1001-1
+=====================================================
